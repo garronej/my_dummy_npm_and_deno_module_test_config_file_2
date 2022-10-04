@@ -14,5 +14,6 @@
             "destDir": "not_res/a/",
             "destBasename": "renamed_foo.json"
         }
-    ]
+    ],
+    "out": "custom_deno_dist_dir_name"
 }
