@@ -15,5 +15,5 @@
             "destBasename": "renamed_foo.json"
         }
     ],
-    "out": "custom_deno_dist_dir_name"
+    "out": "./custom_deno_dist_dir_name"
 }
